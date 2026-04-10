@@ -68,8 +68,7 @@ This flow rate can be compared against standard clinical thresholds (such as KDI
 AKI-Urinometer-ESP32/
 │
 ├── firmware/         ESP32 source code  
-├── hardware/         Schematics and PCB design  
-├── web-dashboard/    Frontend files  
+├── hardware/         Schematics and PCB design    
 ├── images/           Project images  
 ├── docs/             Supporting documentation  
 └── README.md
